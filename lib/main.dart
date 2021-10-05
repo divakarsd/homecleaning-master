@@ -36,7 +36,7 @@ class _MyHomePageState extends State<MyHomePage> {
       body: ListView(
         children: [
           Container(
-            width: 150,
+            width: 100,
             height: 59,
             margin: EdgeInsets.only(top: 40),
             decoration: BoxDecoration(
